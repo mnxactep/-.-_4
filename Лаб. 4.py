@@ -1,3 +1,4 @@
+# Отссылка на библиотеку, отвечающей за правильное написание цифр
 import num2words
 
 def get_currency_ending(number):
